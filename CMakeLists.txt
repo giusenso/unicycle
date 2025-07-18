@@ -7,7 +7,7 @@ enable_testing()
 # Use C++17 or newer
 set(CMAKE_CXX_STANDARD 17)
 
-# Grab eigen
+# Grab GoogleTest
 include(FetchContent)
 set(INSTALL_GTEST OFF)
 set(BUILD_GTEST ON)
