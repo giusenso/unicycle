@@ -1,5 +1,10 @@
 # Unicycle
 
+<p align="center">
+  <img src="img/unicycle.png" alt="Unicycle model" width="500"/>
+</p>
+
+
 ## System dynamics
 
 ### Continuous time forward kinematics
